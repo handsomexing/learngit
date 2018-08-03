@@ -4,4 +4,8 @@ git has a mutable index called stage
 git tracks changes
 my kooky boss prefer to SVN
 Creating a new branch is quick
+<<<<<<< HEAD
 Creating a new branch is quick & simple
+=======
+Creating a new branch is quick AND simple
+>>>>>>> featurel
