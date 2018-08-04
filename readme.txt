@@ -10,3 +10,4 @@ Creating a new branch is quick & simple
 Creating a new branch is quick AND simple
 >>>>>>> featurel
 modify the readme.txt
+The work is only half done
